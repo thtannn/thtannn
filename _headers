@@ -1,0 +1,6 @@
+/downloads/*.rar
+  Content-Type: application/vnd.rar
+  Content-Disposition: attachment
+/downloads/*.zip
+  Content-Type: application/zip
+  Content-Disposition: attachment
